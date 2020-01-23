@@ -10,5 +10,14 @@ package week2;
  * @author Kiranpreet
  */
 public class Loop {
+    private String _StudentDemo;
+
+    public String getStudentDemo() {
+        return _StudentDemo;
+    }
+
+    public void setStudentDemo(String StudentDemo) {
+        _StudentDemo = StudentDemo;
+    }
     
 }
