@@ -28,5 +28,15 @@ public class Loop {
     public void setStudentDemo(String StudentDemo) {
         _StudentDemo = StudentDemo;
     }
+    private String _balance;
+
+    public String getBalance() {
+        return _balance;
+    }
+
+    public void setBalance(String _balance) {
+        this._balance = _balance;
+    }
+    
     
 }
