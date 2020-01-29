@@ -1,13 +1,13 @@
 
 public class Array {
-    private int _number;
+    private int _num;
 
-    public int getNumber() {
-        return _number;
+    public int getNum() {
+        return _num;
     }
 
-    public void setNumber(int _number) {
-        this._number = _number;
+    public void setNum(int _num) {
+        this._num = _num;
     }
     
 }
