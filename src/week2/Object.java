@@ -1,6 +1,15 @@
 package week2;
 public class Object{ 
-    public static void main(String[]args){
-        System.out.println("Hello world!!");
+         
+    private String _balance;
+   
+    public String getBalance() {
+        String _balance = null;
+        return _balance;
+    }
+
+    public void setBalance(String _balance) {
+        this._balance = _balance;
    }
 }
+
