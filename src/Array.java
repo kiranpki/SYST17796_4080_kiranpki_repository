@@ -1,4 +1,3 @@
-
 public class Array {
     private int _number;
 
@@ -8,6 +7,5 @@ public class Array {
 
     public void setNum(int _number) {
         this._number = _number;
-    }
-    
+    }  
 }
