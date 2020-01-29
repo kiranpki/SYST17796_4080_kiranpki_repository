@@ -7,7 +7,7 @@ public class Arrayobject {
 		myArray[0] = "Software design";
 		myArray[1] = "User design";
 		myArray[2] = "Java-2";
-		myArray[3] = "Linux/Uniux";
+                myArray[3] = "Linux/Unix";
  		System.out.println("List of programs");
                 for (String myArray1 : myArray) {
                 System.out.println(myArray1);

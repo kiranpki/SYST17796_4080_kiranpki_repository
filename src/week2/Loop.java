@@ -10,6 +10,15 @@ package week2;
  * @author Kiranpreet
  */
 public class Loop {
+    private int _Number;
+
+    public int getNumber() {
+        return _Number;
+    }
+
+    public void setNumber(int Number) {
+        _Number = Number;
+    }
     private String _StudentDemo;
 
     public String getStudentDemo() {
